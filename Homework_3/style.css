@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#add-review, #view-reviews {
+    margin-bottom: 20px;
+}
+
+input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+}
